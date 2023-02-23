@@ -9,8 +9,7 @@ Syntax of the following is : "VLOOKUP (lookup_value, table_array, col_index_num,
 After combining data we the obtain total score of each unique category using Sumif.
 Syntax of the following is : "=SUMIF(range, criteria, [sum_range])".
 #### Conclusion
-After visualization we can see the top 5 catergories. Animals and science are the two most popular categories of content, showing that people enjoy "real-life" and "factual" content the most.
-![image](https://user-images.githubusercontent.com/114016722/220795857-d991abde-518a-4d70-a8c0-8657b4032169.png)
+After visualization we can see the top 5 catergories. Animals and science are the two most popular categories of content, showing that people enjoy "real-life" and "factual" content the most. 
 
 
 
