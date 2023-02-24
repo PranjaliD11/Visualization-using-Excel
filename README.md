@@ -11,5 +11,7 @@ Syntax of the following is : "=SUMIF(range, criteria, [sum_range])".
 #### Conclusion
 After visualization we can see the top 5 catergories. Animals and science are the two most popular categories of content, showing that people enjoy "real-life" and "factual" content the most. 
 
+#### Results 
 ![alt text](https://github.com/PranjaliD11/Visualisation-using-Excel/blob/main/Forage/Picture1.png)
 
+![alt text](https://github.com/PranjaliD11/Visualisation-using-Excel/blob/main/Forage/Picture2.png)
