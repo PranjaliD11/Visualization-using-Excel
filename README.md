@@ -10,6 +10,7 @@ After combining data we the obtain total score of each unique category using Sum
 Syntax of the following is : "=SUMIF(range, criteria, [sum_range])".
 #### Conclusion
 After visualization we can see the top 5 catergories. Animals and science are the two most popular categories of content, showing that people enjoy "real-life" and "factual" content the most. 
+To access it download all 3 files and reactions files has result in it.
 
 #### Results 
 ![alt text](https://github.com/PranjaliD11/Visualisation-using-Excel/blob/main/Forage/Picture1.png)
